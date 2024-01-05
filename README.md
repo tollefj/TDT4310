@@ -5,9 +5,19 @@ Throughout this course, we will explore many core aspects of natural language pr
 The four labs (and the first exercise) will hopefully prepare and motivate you for the course project, accounting for 75% of the final grade. Information around the project will reside on Blackboard.
 
 
+## `📆 Labs and schedule`
+All labs will be provided as Jupyter Notebooks (.ipynb). The first lab (lab 0) will be a simple question-answer setup, to get familiar with the format, only involving markdown cells. Labs 1 through 4 will require you to properly use the environment with a mix of markdown and code cells.
 
-## `📆 Lab schedule`
+### Setup
+Each lab will have files starting with the prefix `lab{N}`, ${N} \in \{0, 1, 2, 3, 4\}$. Each lab will have at least two files:
+- `lab{N}_description.md` - a description of the lab
+- `lab{N}_exercises.ipynb` - the main notebook with the exercises
+    - **you will submit this file to blackboard**
 
+### Delivery
+By the deadline for each lab, you will submit your `lab{N}_exercises_{your-username}.ipynb` file to Blackboard. You can submit as many times as you want - only the last submission will be considered for pass/fail.
+
+### Schedule
 | Lab | Link | Published | Deadline | Topic | Libraries | Chapters |
 | - | - | - | - | - | - | - |
 | 0 | [Intro](labs/intro.ipynb) | Jan. 8 | Jan. 16 | Large language models | - | - |
