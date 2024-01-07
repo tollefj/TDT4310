@@ -1,12 +1,9 @@
 # Lab 1, Large language models (LLMs) and the latest developments
-### Published: Monday, Jan. 8, 2024
-### Deadline: Tuesday, Jan. 23, 2024
-
 Due to the immense impact of LLMs since the introduction of ChatGPT in November 2022, we encourage students to delve into topics related to LLMs before going into the basics of computational linguistics. Some suggested material is listed below, but you are expected to find reliable information from other sources as well to cover the questions.
 
-This exercise will consist of theoretical questions, where the answers should be around one sentence in length. Future exercises, or *labs*, will be more practical and hands-on. You will find the questions in the [`lab0_exercises`](lab0_exercises.ipynb) notebook. Please submit your answers in the very same notebook and upload it to Blackboard by the deadline. All labs will be provided as jupyter notebooks, so this is an easy transition to get used to the format.
+This exercise will consist of theoretical questions, where the answers should be around one sentence in length. Future exercises, or *labs*, will be more practical and hands-on. You will find the questions in the [`lab1_exercises`](lab1_exercises.ipynb) notebook. Please submit your answers in the very same notebook and upload it to Blackboard by the deadline. All labs will be provided as jupyter notebooks, so this is an easy transition to get used to the format.
 
-If you want to explore the use of these models, there's an added [`playground file`](lab0_playground.ipynb).
+If you want to explore the use of these models, there's an added [`playground file`](lab1_playground.ipynb).
 
 ## Background: the transformer
 The transformer architecture is behind most of the advanced NLP models since its introduction in 2017 in the paper [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf). It introduced parallelized self-attention mechanisms, allowing it to efficiently capture long-range dependencies in sequences, unlike RNNs (Recurrent Neural Networks) and LSTMs (Long Short-Term Memory networks). Two popular models based on the transformer architecture are BERT and GPT.
