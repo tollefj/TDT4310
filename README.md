@@ -4,7 +4,7 @@ Throughout this course, we will explore many aspects of natural language process
 
 The five assignments (we call them labs) will, in one way or another, prepare you for the course project, accounting for 75% of the final grade. Information around the project will reside on Blackboard.
 
-All labs will be provided as Jupyter Notebooks (.ipynb). The first lab (lab 0) will be a simple question-answer setup, to get familiar with the format, only involving markdown cells. Labs 1 through 4 will require you to properly use the environment with a mix of markdown and code cells.
+All labs will be provided as Jupyter Notebooks (.ipynb). The first lab will only consist of questions-answers in markdown-cells, to get familiar with the format. The remaining labs will require you to properly use the environment with a mix of markdown and code cells.
 
 ### `🔧 Lab setup`
 
