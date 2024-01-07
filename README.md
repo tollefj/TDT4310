@@ -25,11 +25,11 @@ By the deadline for each lab, you will submit your `lab{N}_exercises_{your-usern
 
 | Lab | Link | Published | Deadline | Topic | Libraries | Chapters |
 | - | - | - | - | - | - | - |
-| 1 | [Intro](labs/intro.ipynb) | Jan. 8 | Jan. 23 | Large language models | - | - |
-| 2 | [Lab1](labs/lab1.ipynb) | Jan. 23 | Feb. 6 | Tokenization, introduction to word vectors and language modeling | NLTK | 2, 3 |
-| 3 | [Lab2](labs/lab2.ipynb)| Feb. 6 | Feb. 20 | Part-of-speech tagging, stemming/lemmatization, TF-IDF | NLTK, spaCy | 4, 5, 6 |
-| 4 | [Lab3](labs/lab3.ipynb)| Feb. 20 | Mar. 5 | Wordnet and SentiWordNet, dependency parsing, POS chunking | spaCy, Scikit-learn | 7, 8 |
-| 5 | [Lab4](labs/lab4.ipynb)| Mar. 5 | Mar. 19 | Unsupervised topic modeling and named entities | Gensim | 9, 10, 11 |
+| 1 | [Lab1](labs/intro.ipynb) | Jan. 8 | Jan. 23 | Large language models | - | - |
+| 2 | [Lab2](labs/lab1.ipynb) | Jan. 23 | Feb. 6 | Tokenization, introduction to word vectors and language modeling | NLTK | 2, 3 |
+| 3 | [Lab3](labs/lab2.ipynb)| Feb. 6 | Feb. 20 | Part-of-speech tagging, stemming/lemmatization, TF-IDF | NLTK, spaCy | 4, 5, 6 |
+| 4 | [Lab4](labs/lab3.ipynb)| Feb. 20 | Mar. 5 | Wordnet and SentiWordNet, dependency parsing, POS chunking | spaCy, Scikit-learn | 7, 8 |
+| 5 | [Lab5](labs/lab4.ipynb)| Mar. 5 | Mar. 19 | Unsupervised topic modeling and named entities | Gensim | 9, 10, 11 |
 
 ## `📚 Curriculum`
 
