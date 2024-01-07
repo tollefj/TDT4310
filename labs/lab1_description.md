@@ -1,6 +1,6 @@
-# Introductory exercise: Large language models (LLMs) and the latest developments
+# Lab 1, Large language models (LLMs) and the latest developments
 ### Published: Monday, Jan. 8, 2024
-### Deadline: Tuesday, Jan. 16, 2024
+### Deadline: Tuesday, Jan. 23, 2024
 
 Due to the immense impact of LLMs since the introduction of ChatGPT in November 2022, we encourage students to delve into topics related to LLMs before going into the basics of computational linguistics. Some suggested material is listed below, but you are expected to find reliable information from other sources as well to cover the questions.
 
@@ -42,4 +42,8 @@ Computer science students love to ___
 - [Andrej Karpathy, 1hr talk on LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - [About ChatGPT](https://www.assemblyai.com/blog/how-chatgpt-actually-works/)
 - [Fine-tuning LLMs](https://www.analyticsvidhya.com/blog/2023/08/fine-tuning-large-language-models/)
+- Xavi Amatriain, VP of engineering at LinkedIn:
+  - [On open-source LLMs](https://amatriain.net/blog/opensourcellms2)
+  - [A massive catalogue of developments as of June, 2023](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
 - Familiarize yourself with HuggingFace, a popular NLP library and model repository. They also host a [great blog](https://huggingface.co/blog) with many interesting articles on NLP.
+  - HuggingFace is now one of the most influential companies in the NLP and AI space.
