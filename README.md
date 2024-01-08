@@ -34,6 +34,6 @@ By the deadline for each lab, you will submit your `lab{N}_exercises_{your-usern
 The course curriculum is mostly based around the 2022 book by *Ekaterina Kochmar* - Getting Started with Natural Language Processing. It is available on [Akademika](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/getting-started-natural-language-processing/9781617296765).
 
 <p align="center">
-    <img src="assets/kochmar.png" width=150>
+    <img src="https://www.akademika.no/sites/default/files/styles/product_large/public/product_images/978/1/6/1/7/2/9/9781617296765.jpg" width=150>
 </p>
 
