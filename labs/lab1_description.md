@@ -36,11 +36,19 @@ Computer science students love to ___
 ```
 
 ## Suggested material
+Here are a selection of updated resources on the topic.
 - [Andrej Karpathy, 1hr talk on LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-- [About ChatGPT](https://www.assemblyai.com/blog/how-chatgpt-actually-works/)
-- [Fine-tuning LLMs](https://www.analyticsvidhya.com/blog/2023/08/fine-tuning-large-language-models/)
-- Xavi Amatriain, VP of engineering at LinkedIn:
-  - [On open-source LLMs](https://amatriain.net/blog/opensourcellms2)
+- How do they work...
+  - [About ChatGPT](https://www.assemblyai.com/blog/how-chatgpt-actually-works/)
+  - [Inside Language Models](https://lifearchitect.ai/models/)
+  - [Fine-tuning LLMs](https://www.analyticsvidhya.com/blog/2023/08/fine-tuning-large-language-models/)
+  - [Can LMs be too big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
+- Catalogues:
   - [A massive catalogue of developments as of June, 2023](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
-- Familiarize yourself with HuggingFace, a popular NLP library and model repository. They also host a [great blog](https://huggingface.co/blog) with many interesting articles on NLP.
+  - [A comprehensive overview of LLMs](https://github.com/humza909/LLM_Survey)
+- [On open-source LLMs](https://amatriain.net/blog/opensourcellms2)
+- Familiarize yourself with HuggingFace, a popular NLP library and model repository. They also host a [great blog](https://huggingface.co/blog).
   - HuggingFace is now one of the most influential companies in the NLP and AI space.
+- LLMs are hard to interpret and too expensive for most. Small Language Models will be important in the future.
+  - [The Rise of Small Language Models— Efficient & Customizable](https://medium.com/@bijit211987/the-rise-of-small-language-models-efficient-customizable-cb48ddee2aad)
+  - [Rising Impact of Small Language Models](https://www.unite.ai/rising-impact-of-small-language-models/)
