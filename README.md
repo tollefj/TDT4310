@@ -19,10 +19,11 @@ Each lab will have files starting with the prefix `lab{N}`, ${N} \in \{1, 2, 3, 
 By the deadline for each lab, you will submit your `lab{N}_exercises_{your-username}.ipynb` file to Blackboard. You can submit as many times as you want - only the last submission will be considered for pass/fail.
 
 ### `📆 Schedule`
+### 🔺🔺 Note: Deadlines and topic details subject to change!!! 🔺🔺
 
 | Lab | Link | Published | Deadline | Topic | Libraries | Chapters |
 | - | - | - | - | - | - | - |
-| 1 | [Lab1](labs/lab1_exercises.md) | Jan. 8 | Jan. 22 | Large language models | - | - |
+| 1 | [Lab1](labs/lab1_exercises.md) | Jan. 8 | Jan. 22 | Large language models | transformers | - |
 | 2 | [Lab2](labs/lab2_exercises.md) | Jan. 22 | Feb. 5 | Tokenization, introduction to word vectors and language modeling | NLTK | 2, 3 |
 | 3 | [Lab3](labs/lab3_exercises.md)| Feb. 5 | Feb. 19 | Part-of-speech tagging, stemming/lemmatization, TF-IDF | NLTK, spaCy | 4, 5, 6 |
 | 4 | [Lab4](labs/lab4_exercises.md)| Feb. 19 | Mar. 4 | Wordnet and SentiWordNet, dependency parsing, POS chunking | spaCy, Scikit-learn | 7, 8 |
