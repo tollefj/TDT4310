@@ -2,9 +2,9 @@
 
 Throughout this course, we will explore many aspects of natural language processing, starting with the very latest developments within language models - specifically *large* language models. From there on, we go back to learn more fundamental topics such as part-of-speech tagging, grammars, dependency parsing and tasks like sentiment analysis and topic modeling.
 
-The five assignments (we call them labs) will, in one way or another, prepare you for the course project, accounting for 75% of the final grade. Information around the project will reside on Blackboard.
-
 All labs will be provided as Jupyter Notebooks (.ipynb). The first lab will only consist of questions-answers in markdown-cells, to get familiar with the format. The remaining labs will require you to properly use the environment with a mix of markdown and code cells.
+
+**You must pass all labs to be eligible for the exam.**
 
 ### `🔧 Lab setup`
 
@@ -16,7 +16,7 @@ Each lab will have files starting with the prefix `lab{N}`, ${N} \in \{1, 2, 3, 
 
 ### `📝 Delivery`
 
-By the deadline for each lab, you will submit your `lab{N}_exercises_{your-username}.ipynb` file to Blackboard. You can submit as many times as you want - only the last submission will be considered for pass/fail.
+By the deadline for each lab, you will submit your `lab{N}_exercises_{your-username}.ipynb` file to Blackboard. You can submit as many times as you want - only the last submission will be considered.
 
 ### `📆 Schedule`
 ### 🔺🔺 Note: Deadlines and topic details subject to change!!! 🔺🔺
