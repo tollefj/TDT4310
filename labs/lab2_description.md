@@ -22,9 +22,9 @@ I highly suggest you to read through Chapter 1: *Introduction*, although Chapter
 
 
 ## Word representations
-When we talk about word *representations*, this usually means assigning some numerical value or a vector of values to a word. We can also call this *vectorization* or *word embeddings*. The latter is the most common term.
+When we talk about word *representations*, this usually means assigning some numerical value or a vector of values to a word. We can also call this *vectorization*.
 
-An embedding can be thought of as a mapping between words and their vectors as values:
+A word vector can be thought of as a mapping between words and their vectors as values:
 
 ```python
 word_vector_map = {
@@ -35,9 +35,9 @@ word_vector_map = {
 }
 ```
 
-Embeddings show up in the majority of NLP applications in some form, and are essential to the implementations of the latest models.
+These kind of vectors and embeddings show up in the majority of NLP applications in some form, and are essential to the implementations of the latest models.
 
-The simplest form of an embedding is a *one-hot vector*. This is a vector of zeros, with a single one at the index of the word in the vocabulary.
+One of the simplest forms of vectorization is a *one-hot vector*. This is a vector of zeros, with a single one at the index of the word in the vocabulary.
 If we have a vocabulary of 3 words: cat, dog and mouse, this would be initialized as `[0, 0, 0]`. Thus, we get the vectors:
 
 $vec_{cat} = [1, 0, 0]$
@@ -46,14 +46,11 @@ $vec_{dog} = [0, 1, 0]$
 
 $vec_{mouse} = [0, 0, 1]$.
 
-As you can probably imagine, this is an extremely sparse representation when we grow our vocabulary to thousands of words. We want more dense representations, and this is where word embeddings come in. 
-
-Word embeddings, typically trained on large corpora with neural networks, are able to capture both semantic and syntactic information about words, merely by looking at the context in which they appear. This is known as the *distributional hypothesis*:
+As you can probably imagine, this is an extremely sparse representation when we grow our vocabulary to thousands of words. For real-world applications, dense representations are more suitable, and this is where word embeddings come in. Word embeddings, typically trained on large corpora with neural networks, are able to capture both semantic and syntactic information about words by looking at the context in which they appear (overly simplified). This is an effect of the *distributional hypothesis*:
 
 > You shall know a word by the company it keeps (Firth, 1957)
 
-These embeddings allow us to perform mathematical operations on words, reducing their dimensions through techniques such as PCA (explained later in the course). This allows us to visualize the embeddings in 2D/3D space for an intuitive understanding of the relationships between words:
+These embeddings allow us to perform mathematical operations on words, reducing their dimensions through techniques such as PCA (covered later in the course. Check the playground for a demo). This allows us to visualize the embeddings in 2D/3D space for an intuitive understanding of the relationships between words:
 
 ![](https://editor.analyticsvidhya.com/uploads/450121_sAJdxEsDjsPMioHyzlN3_A.png)
 
-If you wish, see the playground notebook for a simple example.
