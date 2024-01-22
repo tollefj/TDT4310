@@ -1,7 +1,8 @@
 # custom
-future
 .DS_Store
 *.old
+Makefile
+makefile
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
