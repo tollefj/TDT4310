@@ -1,4 +1,4 @@
-# Lab 3 - POS chunking, dependency parsing, and WordNet
+# Lab 4 - POS chunking, dependency parsing, and WordNet
 
 A brief description of each topic and some motivation is given below.
 
