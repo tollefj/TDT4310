@@ -19,7 +19,6 @@ Each lab will have files starting with the prefix `lab{N}`, ${N} \in \{1, 2, 3, 
 By the deadline for each lab, you will submit your `lab{N}_exercises_{your-username}.ipynb` file to Blackboard. You can submit as many times as you want - only the last submission will be considered.
 
 ### `📆 Schedule`
-### 🔺🔺 Note: Deadlines and topic details subject to change!!! 🔺🔺
 
 | Lab | Link | Published | Deadline | Topic | Libraries | Chapters |
 | - | - | - | - | - | - | - |
