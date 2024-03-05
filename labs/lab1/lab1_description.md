@@ -3,7 +3,7 @@ Due to the immense impact of LLMs since the introduction of ChatGPT in November 
 
 This exercise will consist of theoretical questions, where the answers should be around one sentence in length. Future exercises, or *labs*, will be more practical and hands-on. You will find the questions in the [`lab1_exercises`](lab1_exercises.ipynb) notebook. Please submit your answers in the very same notebook and upload it to Blackboard by the deadline. All labs will be provided as jupyter notebooks, so this is an easy transition to get used to the format.
 
-If you want to explore the use of these models, there's an added [`playground file`](lab1_playground.ipynb).
+If you want to explore the use of these models, there's an added [`playground file`](../../examples/lab1_playground.ipynb).
 
 ## Background: the transformer
 The transformer architecture is behind most of the advanced NLP models since its introduction in 2017 in the paper [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf). It introduced parallelized self-attention mechanisms, allowing it to efficiently capture long-range dependencies in sequences, unlike RNNs (Recurrent Neural Networks) and LSTMs (Long Short-Term Memory networks). Two popular models based on the transformer architecture are BERT and GPT.
